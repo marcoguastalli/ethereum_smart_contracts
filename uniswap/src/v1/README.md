@@ -13,10 +13,9 @@ npm init
 npm i --save @uniswap/v2-core
 npm i --save @uniswap/v2-periphery
 
-
-
 # Build
 cd ~/dev/repository/git/ethereum_smart_contracts/uniswap/src/v1
+truffle test
 
 # Run
 
