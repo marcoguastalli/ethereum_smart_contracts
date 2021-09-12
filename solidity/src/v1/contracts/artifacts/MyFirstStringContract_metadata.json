@@ -1,0 +1,72 @@
+{
+  "compiler": {
+    "version": "0.7.6+commit.7338295f"
+  },
+  "language": "Solidity",
+  "output": {
+    "abi": [
+      {
+        "inputs": [
+          {
+            "internalType": "string",
+            "name": "_rockText",
+            "type": "string"
+          }
+        ],
+        "name": "engrave",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+      },
+      {
+        "inputs": [],
+        "name": "regain",
+        "outputs": [
+          {
+            "internalType": "string",
+            "name": "",
+            "type": "string"
+          }
+        ],
+        "stateMutability": "view",
+        "type": "function"
+      }
+    ],
+    "devdoc": {
+      "kind": "dev",
+      "methods": {},
+      "version": 1
+    },
+    "userdoc": {
+      "kind": "user",
+      "methods": {},
+      "version": 1
+    }
+  },
+  "settings": {
+    "compilationTarget": {
+      "contracts/1_UnaStringa.sol": "MyFirstStringContract"
+    },
+    "evmVersion": "istanbul",
+    "libraries": {},
+    "metadata": {
+      "bytecodeHash": "ipfs"
+    },
+    "optimizer": {
+      "enabled": false,
+      "runs": 200
+    },
+    "remappings": []
+  },
+  "sources": {
+    "contracts/1_UnaStringa.sol": {
+      "keccak256": "0x733b6c192eb81b706364f5826e288d92bea2d1a745526638cef73daa074045e4",
+      "license": "MIT",
+      "urls": [
+        "bzz-raw://b33b92d9126e06cf1a8b9b8f530b1e7b8e88e16c8b2c3e52e220673f2231561f",
+        "dweb:/ipfs/QmTF6EuoyaZNp3f43HKW8vPgELM19tPCinNKZmuwX4nG6Z"
+      ]
+    }
+  },
+  "version": 1
+}
