@@ -45,7 +45,7 @@
   },
   "settings": {
     "compilationTarget": {
-      "contracts/1_UnaStringa.sol": "MyFirstStringContract"
+      "contracts/1_MyFirstStringContract.sol": "MyFirstStringContract"
     },
     "evmVersion": "istanbul",
     "libraries": {},
@@ -59,12 +59,12 @@
     "remappings": []
   },
   "sources": {
-    "contracts/1_UnaStringa.sol": {
-      "keccak256": "0x733b6c192eb81b706364f5826e288d92bea2d1a745526638cef73daa074045e4",
+    "contracts/1_MyFirstStringContract.sol": {
+      "keccak256": "0x7820dcba89ef082869770132dad1ba2618c614f06289c6edbff82297715ebd19",
       "license": "MIT",
       "urls": [
-        "bzz-raw://b33b92d9126e06cf1a8b9b8f530b1e7b8e88e16c8b2c3e52e220673f2231561f",
-        "dweb:/ipfs/QmTF6EuoyaZNp3f43HKW8vPgELM19tPCinNKZmuwX4nG6Z"
+        "bzz-raw://c1673c2f8804e7424d0fc7680b39fe0b4226205d47dae6ea96630967109d2791",
+        "dweb:/ipfs/QmeoBBJX8vhhpyDY4dBvkbUGSfVEN65PGcsZA7R1TR8jYp"
       ]
     }
   },
